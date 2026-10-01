@@ -1,0 +1,5 @@
+experiment_id,distance_cm,n_trials,mean_time_s,time_sd_s,mean_velocity_m_per_s,velocity_sd_m_per_s,calculation,data_type
+LEGO30585-RAMP-001,5,3,0.260,0.010,0.19231,0.00740,distance_m/mean_time_s,synthetic_example
+LEGO30585-RAMP-001,10,3,0.500,0.010,0.20000,0.00400,distance_m/mean_time_s,synthetic_example
+LEGO30585-RAMP-001,15,3,0.740,0.010,0.20270,0.00274,distance_m/mean_time_s,synthetic_example
+LEGO30585-RAMP-001,20,3,0.990,0.010,0.20202,0.00204,distance_m/mean_time_s,synthetic_example
