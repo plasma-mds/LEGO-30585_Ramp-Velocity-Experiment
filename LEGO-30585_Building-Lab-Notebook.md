@@ -1,19 +1,14 @@
 # Electronic Lab Notebook: LEGO 30585 Vehicle Assembly
 
-**Date:** 2026-09-30  
-**Specimen:** LEGO City set 30585 vehicle  
-**Parts reference:** [LEGO 30585 Parts Catalog](LEGO-30585_ELN_Parts-Catalog.md)
-
 ## Objective
 
-Assemble and document the vehicle as an ordered mechanical construction experiment. The figures below are graphite-style redraws of the supplied instruction extractions. They retain the original placement arrows, part callouts, and stage numbers while matching the hand-drawn parts-list visual language.
+Assemble the LEGO City set 30585 vehicle using the [LEGO 30585 Parts Catalog](LEGO-30585_Parts-Catalog.md).
 
 ## Materials And Method
 
-- The listed parts were checked against the four-column hand-drawn inventory before assembly.
-- Each operation adds parts to the existing subassembly; the orientation in the figure is treated as the reference frame.
-- Arrows indicate the direction of insertion or placement. Repeated-part callouts, such as `2x` and `4x`, are treated as replicated operations.
-- Inspection criterion after every stage: the added parts lie flush with the studs or axle connection and the chassis remains symmetric about its longitudinal centreline.
+- The listed parts were checked against the [inventory](LEGO-30585_Parts-Catalog.md) before assembly.
+- Each operation adds parts to the existing subassembly.
+- Repeated-part callouts, such as `2x` and `4x`, are treated as replicated operations.
 
 ## Build Record
 
@@ -125,11 +120,6 @@ Assemble the tyre-and-rim units and attach four wheels. Install the windscreen a
 
 ![Hand-drawn instruction step 11](building-process/step-11-hand-drawn.jpg)
 
+![Completed car](parts-catalog/completed-vehicle-hand-drawn.png)
+
 **Observation:** The completed vehicle should stand level on all four tyres. Rotate each wheel by hand to verify that no body panel interferes with it.
-
-## Final Inspection
-
-- Four tyre/rim assemblies are present and seated on the axle locations.
-- The red upper rails and yellow side panels are symmetric.
-- The windscreen is seated without stressing the cockpit parts.
-- The vehicle is stable on a flat surface and rolls freely.

@@ -1,0 +1,16 @@
+experiment_id,vehicle_set,run_date,marker_from_bottom_cm,distance_from_release_cm,trial,time_s,distance_uncertainty_cm,stopwatch_resolution_s,velocity_m_per_s,data_type
+LEGO30585-RAMP-001,30585,2026-10-05,40,0,1,0.00,0.1,0.01,,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,40,0,2,0.00,0.1,0.01,,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,40,0,3,0.00,0.1,0.01,,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,30,10,1,0.41,0.1,0.01,0.24390,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,30,10,2,0.43,0.1,0.01,0.23256,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,30,10,3,0.42,0.1,0.01,0.23810,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,20,20,1,0.59,0.1,0.01,0.33898,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,20,20,2,0.61,0.1,0.01,0.32787,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,20,20,3,0.60,0.1,0.01,0.33333,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,10,30,1,0.74,0.1,0.01,0.40541,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,10,30,2,0.76,0.1,0.01,0.39474,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,10,30,3,0.75,0.1,0.01,0.40000,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,0,40,1,0.86,0.1,0.01,0.46512,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,0,40,2,0.88,0.1,0.01,0.45455,synthetic_example
+LEGO30585-RAMP-001,30585,2026-10-05,0,40,3,0.87,0.1,0.01,0.45977,synthetic_example
