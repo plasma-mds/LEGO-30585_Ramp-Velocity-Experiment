@@ -34,27 +34,6 @@ The calculated average velocity increased from 0.23810 m/s after 10 cm to 0.4597
 
 *Figure 3. Average velocity as a function of distance from the release marker. Error bars represent timing-only propagated standard deviation.*
 
-| Marker from bottom (cm) | Distance from release (cm) | Mean time (s) | Time SD (s) | Average velocity (m/s) | Velocity SD (m/s) |
-|---:|---:|---:|---:|---:|---:|
-| 40 | 0 | 0.000 | 0.000 | Not applicable | Not applicable |
-| 30 | 10 | 0.420 | 0.010 | 0.23810 | 0.00567 |
-| 20 | 20 | 0.600 | 0.010 | 0.33333 | 0.00556 |
-| 10 | 30 | 0.750 | 0.010 | 0.40000 | 0.00533 |
-| 0 | 40 | 0.870 | 0.010 | 0.45977 | 0.00528 |
-
 ## Conclusion
 
 The synthetic measurements illustrate a reproducible ramp-descent analysis: repeated timing observations were collected at defined ramp markers, summarized with standard deviations, and converted to average velocities with propagated timing uncertainty. The rising average-velocity trend is consistent with the constructed accelerated-descent dataset. A physical repeat should record ramp surface composition, exact release procedure, stopwatch model, and observer reaction-time effects before making claims about vehicle dynamics.
-
-## Data Availability
-
-The dataset supplementing the paper is available at Zenodo DOI **assignment pending**. It includes
-
-- [Vehicle provenance](LEGO-30585_Building-Lab-Notebook.md)
-- [Ramp-descent measurement ELN](LEGO-30585_Ramp-Velocity-ELN.md)
-- [Raw CSV data](velocity-experiment/ramp-descent-raw-data.csv)
-- [Summary CSV data](velocity-experiment/ramp-descent-summary.csv)
-- [Time-plot script](velocity-experiment/ramp-time-by-distance.py)
-- [Velocity-plot script](velocity-experiment/ramp-average-velocity.py)
-
-

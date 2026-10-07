@@ -1,0 +1,5 @@
+# Electronic Lab Notebook: Ramp Descent Velocity Measurement
+
+## Experimental Setup
+
+The average velocity of the LEGO 30585 vehicle rolling down a ramp was measured. Average velocity was calculated from the distance travelled since release and the mean elapsed time. The ramp had a 50 cm length and an 8 cm vertical height. Distance markers were placed at 40, 30, 20, 10, and 0 cm measured along the ramp upward from its bottom. The vehicle was released without an applied push, with its front wheels at the 40 cm marker. Stopwatch timing began at release, so `t = 0` and travelled distance was 0 cm at that marker. Timing stopped when the vehicle front reached the 30, 20, 10, or 0 cm marker, corresponding to travelled distances of 10, 20, 30, and 40 cm. Three trials were evaluated at every marker.
