@@ -48,7 +48,7 @@ The synthetic measurements illustrate a reproducible ramp-descent analysis: repe
 
 ## Data Availability
 
-The dataset supplementing the paper is available at Zenodo DOI **assignment pending**. It includes
+The dataset supplementing the paper is available at Zenodo under https://doi.org/10.5281/zenodo.23224090. It includes
 
 - [Vehicle provenance](LEGO-30585_Building-Lab-Notebook.md)
 - [Ramp-descent measurement ELN](LEGO-30585_Ramp-Velocity-ELN.md)
