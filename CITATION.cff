@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as described below."
+title: "LEGO-30585 Ramp Velocity Experiment"
+type: dataset
+authors:
+  - family-names: Becker
+    given-names: Markus M.
+    email: markus.becker@inp-greifswald.de
+  - family-names: Prenzel
+    given-names: Marina
+    email: marina.prenzel@rub.de
+date-released: 2026-10-01
+license: CC-BY-4.0
+repository-code: "https://github.com/plasma-mds/LEGO-30585_Ramp-Velocity-Experiment"
